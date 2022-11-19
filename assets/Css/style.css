@@ -1,0 +1,39 @@
+body{
+  font-family: sans-serif;
+  color: #777;
+  line-height: 1.7;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-weight: 600;
+  color: #222;
+}
+
+a{
+  color: #222;
+  text-decoration: none;
+  transition: all 0.4s;
+  font-weight: 600;
+}
+a:hover{
+  color: #F58d17;
+}
+img{
+  min-width: 100%;
+}
+
+.btn {
+border-radius : 0;
+padding:  14px 38px;
+}
+.btn-order{
+  color: white;
+  font-weight: 500;
+  border-color: #F58d17;
+  background-color: #F58d17;
+}
+.btn-order:hover{
+  border-color: #ca7310;
+  background-color: #ca7310;
+  color: white
+}
