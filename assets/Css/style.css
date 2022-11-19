@@ -19,7 +19,12 @@ a:hover{
   color: #F58d17;
 }
 img{
-  min-width: 100%;
+  width: 100%;
+}
+
+section{
+  padding-top : 120px; 
+  padding-bottom: 120px;
 }
 
 .btn {
@@ -69,4 +74,14 @@ background-color: white;
 display: inline-block;
 margin: 10px;
 vertical-align: middle;
+}
+
+
+/*ABout section */
+#about .divider{
+  width: 60px;
+  height: 2px;
+  display: block;
+  background-color: #F58d17;
+ 
 }
