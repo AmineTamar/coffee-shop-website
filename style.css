@@ -59,10 +59,10 @@ padding:  14px 38px;
   
 }
 .slide1{
-  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/assets/images/slide1-img.jpg);
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/images/slide1-img.jpg);
 }
 .slide2{
-  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/assets/images/slide2-img.jpg);
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/images/slide2-img.jpg);
 }
 .carousel-control-prev,.carousel-control-next{
   background-color: rgba(0,0,0,0.6);
@@ -121,7 +121,7 @@ vertical-align: middle;
   color: #ca7310;
 }
 #features{
-  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/assets/images/slide2-img.jpg);
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/images/slide2-img.jpg);
   background-position: center!important;
   background-size: cover !important;
   background-repeat: no-repeat!important;
@@ -152,7 +152,7 @@ vertical-align: middle;
   border-radius: 100px;
 }
 #reviews{
-  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/assets/images/slide1-img.jpg);
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/images/slide1-img.jpg);
   background-position: center!important;
   background-size: cover !important;
   background-repeat: no-repeat!important;
