@@ -158,3 +158,16 @@ vertical-align: middle;
   background-repeat: no-repeat!important;
 
 }
+
+/*Review*/
+.review img{
+  max-width: 140px;
+  border-radius: 100px;
+  object-fit: cover;
+
+}
+.review .quote-icon{
+  font-size: 74px;
+  line-height: 1;
+
+}
