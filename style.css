@@ -171,3 +171,19 @@ vertical-align: middle;
   line-height: 1;
 
 }
+
+/*Reservation*/
+
+#reservation .form-control {
+  border-radius: 0;
+}
+
+#reservation .form-control:focus {
+ box-shadow: none;
+ border-color: #F58d17;
+}
+
+#reservation input.form-control {
+height: 47px;
+}
+
