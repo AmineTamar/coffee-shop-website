@@ -187,3 +187,18 @@ vertical-align: middle;
 height: 47px;
 }
 
+/*blog*/
+.blog-post img{
+  
+  object-fit: cover;
+}
+
+@media (max-width :768px) {
+  .blog-post {
+    flex-direction: column;
+  }
+  .blog-post img{
+    width: 100%;
+  }
+  
+}
