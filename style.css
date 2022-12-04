@@ -202,3 +202,12 @@ height: 47px;
   }
   
 }
+
+/*footer*/
+footer{
+  background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.6)),url(/images/slide2-img.jpg);
+  background-position: center!important;
+  background-size: cover !important;
+  background-repeat: no-repeat!important;
+
+}
