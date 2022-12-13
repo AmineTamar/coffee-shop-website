@@ -189,7 +189,7 @@ height: 47px;
 
 /*blog*/
 .blog-post img{
-  width: 100%;
+  width: 40%;
   object-fit: cover;
 }
 
